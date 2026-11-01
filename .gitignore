@@ -1,0 +1,7 @@
+# حماية: لا تُرفع بيانات خاصة أبداً
+*.xlsx
+*.xls
+*.csv
+phones*.json
+codes*.json
+خاص/
